@@ -1,0 +1,140 @@
+name: jakomo_recliner
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_blue: ^0.8.0
+  get: ^4.3.8
+  animations: ^2.0.2
+  flutter_screenutil: ^5.0.1
+  permission_handler: ^8.3.0
+  logger: ^1.1.0
+  connectivity_plus: ^2.0.3
+  retrofit: ^2.0.0
+  dio: ^4.0.0
+  json_annotation: ^4.0.1
+  just_audio: ^0.9.18
+#  audio_service: ^0.18.2
+  smooth_page_indicator: ^1.0.0+2
+  sleek_circular_slider: ^2.0.1
+  table_calendar: ^3.0.3
+  intl: ^0.17.0
+  url_launcher: ^6.0.16
+  webview_flutter: ^2.3.1
+  dotted_line: ^3.1.0
+  image_picker: ^0.8.4+4
+  email_validator: ^2.0.1
+  sqflite: ^2.0.0+4
+  shared_preferences: ^2.0.11
+  fl_chart: ^0.40.6
+#  device_preview: ^1.0.0
+  flutter_native_splash: ^1.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  retrofit_generator: ^2.0.0
+  build_runner: ^2.0.3
+  json_serializable: ^4.1.2
+
+flutter_native_splash:
+  color: "#a6ad0a"
+  image: images/logo_splash_big.png
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+    - audios/
+  fonts:
+    - family: acb
+      fonts:
+        - asset: fonts/acb.ttf
+    - family: aceb
+      fonts:
+        - asset: fonts/aceb.ttf
+    - family: acl
+      fonts:
+        - asset: fonts/acl.ttf
+    - family: acr
+      fonts:
+        - asset: fonts/acr.ttf
+    - family: b
+      fonts:
+        - asset: fonts/b.ttf
+    - family: eb
+      fonts:
+        - asset: fonts/eb.ttf
+    - family: l
+      fonts:
+        - asset: fonts/l.ttf
+    - family: r
+      fonts:
+        - asset: fonts/r.ttf
+    - family: black
+      fonts:
+        - asset: fonts/black.ttf
+    - family: blackitalic
+      fonts:
+        - asset: fonts/blackitalic.ttf
+    - family: bold
+      fonts:
+        - asset: fonts/bold.ttf
+    - family: bolditalic
+      fonts:
+        - asset: fonts/bolditalic.ttf
+    - family: extrabold
+      fonts:
+        - asset: fonts/extrabold.ttf
+    - family: extrabolditalic
+      fonts:
+        - asset: fonts/extrabolditalic.ttf
+    - family: extralight
+      fonts:
+        - asset: fonts/extralight.ttf
+    - family: extralightitalic
+      fonts:
+        - asset: fonts/extralightitalic.ttf
+    - family: italic
+      fonts:
+        - asset: fonts/italic.ttf
+    - family: light
+      fonts:
+        - asset: fonts/light.ttf
+    - family: lightitalic
+      fonts:
+        - asset: fonts/lightitalic.ttf
+    - family: medium
+      fonts:
+        - asset: fonts/medium.ttf
+    - family: mediumitalic
+      fonts:
+        - asset: fonts/mediumitalic.ttf
+    - family: regular
+      fonts:
+        - asset: fonts/regular.ttf
+    - family: semibold
+      fonts:
+        - asset: fonts/semibold.ttf
+    - family: semibolditalic
+      fonts:
+        - asset: fonts/semibolditalic.ttf
+    - family: thin
+      fonts:
+        - asset: fonts/thin.ttf
+    - family: thinitalic
+      fonts:
+        - asset: fonts/thinitalic.ttf

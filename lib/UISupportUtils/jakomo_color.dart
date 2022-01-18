@@ -1,0 +1,58 @@
+import 'dart:ui';
+
+import 'package:flutter/cupertino.dart';
+
+class JakomoColor{
+  final Color pistachio = const Color(0xffa6ad0a);
+  final Color white = const Color(0xffffffff);
+  final Color blackHaze = const Color(0xfff3f4f4);
+  final Color black = const Color(0xff000000);
+  final Color boulder = const Color(0xff757575);
+  final Color seaShell = const Color(0xfff1f1f1);
+  final Color domino = const Color(0xff87775e);
+  final Color capeCod = const Color(0xff2e3130);
+  final Color transperent = const Color(0x00000000);
+  final Color quarterSpanishWhite = const Color(0xfff6eddf);
+  final Color trendyGreen = const Color(0xff848a11);
+  final Color emperor = const Color(0xff534b4b);
+  final Color alabaster = const Color(0xfff7f7f7);
+  final Color woodSmoke = const Color(0xff131415);
+  final Color dustyGray = const Color(0xff979797);
+  final Color mineShaft = const Color(0xff333333);
+  final Color silverChalice = const Color(0xffaeaeae);
+  final Color grey = const Color(0xff808080);
+  final Color alto = const Color(0xffd8d8d8);
+  final Color gallery = const Color(0xffebebeb);
+  final Color dustyGray2 = const Color(0xff9b9b9b);
+  final Color silver = const Color(0xffcccccc);
+  final Color yukonGold = const Color(0xff787d07);
+  final Color mineShaft2 = const Color(0xff343434);
+  final Color fruitSalad = const Color(0xff4caf50);
+  final Color feijoa = const Color(0xff9dd872);
+  final Color candleLight = const Color(0xffffcf18);
+  final Color coral = const Color(0xffff8446);
+  final Color alizarinCrimson = const Color(0xffdf322f);
+  final Color alabaster2 = const Color(0xfffbfbfb);
+  final Color concrete = const Color(0xfff3f3f3);
+  final Color nobel = const Color(0xffb3b3b3);
+  final Color scorpion = const Color(0xff5b5b5b);
+  final Color mercury = const Color(0xffe8e8e8);
+  final Color chambray = const Color(0xff2e517a);
+  final Color red = const Color(0xfffe0010);
+  final Color athensGray = const Color(0xfff2f3f5);
+  final Color manatee = const Color(0xff969699);
+  final Color chablis = const Color(0xfffff4f4);
+  final Color shark = const Color(0xff2e2e33);
+  final Color azureRadiance = const Color(0xff0091ea);
+  final Color athensGray2 = const Color(0xffE8ECF0);
+  final Color whisper = const Color(0xfff6f7fa);
+  final Color gallery2 = const Color(0xffeaeaea);
+  final Color blackHaze2 = const Color(0xfff7f8f8);
+  final Color concrete2 = const Color(0xfff2f2f2);
+  final Color froly = const Color(0xffee6a7b);
+  final Color wildSand = const Color(0xfff5f5f5);
+  final Color porcelain = const Color(0xfff6f7f8);
+  final Color seaShell2 = const Color(0xfff1f1f1);
+  final Color iron = const Color(0xffdfe0e2);
+  final Color silverChalice2 = const Color(0xffa8a8a8);
+}
