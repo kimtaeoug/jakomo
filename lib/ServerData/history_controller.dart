@@ -38,12 +38,8 @@ class HistoryController extends GetxController{
     }
   }
   bool sameDay(DateTime date, DateTime date2){
-    if(date.year == date2.year){
-      if(date.month == date2.month){
-        if(date.day == date2.day){
-          return true;
-        }
-      }
+    if(date.year == date2.year && date.month == date2.month && date.day == date2.day){
+      return true;
     }
     return false;
   }

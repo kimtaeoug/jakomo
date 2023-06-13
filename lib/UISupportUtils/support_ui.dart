@@ -18,7 +18,6 @@ class SupportUI{
       orientation: Orientation.portrait
     );
     screenUtil = ScreenUtil();
-    print('new');
   }
   double resWidth(double width) => screenUtil.setWidth(width);
   double resHeight(double height) => screenUtil.setWidth(height);

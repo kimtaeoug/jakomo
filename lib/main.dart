@@ -15,28 +15,35 @@ import 'Page/MeasurePage/MeasureProgressPage/measure_progress_controller.dart';
 import 'Routes/jakomo_pages.dart';
 
 void main(){
-  runApp(MyApp());
+  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+  runApp(JakomoApp());
 }
 
-class MyApp extends StatelessWidget {
-  MyApp({Key? key}) : super(key: key);
-  final SupportUI _supportUI = SupportUI();
-  final BottomNavigationController bottomNavigationController =
-      Get.put(BottomNavigationController());
-  final RestCareAudioController restCareAudioController = Get.put(RestCareAudioController());
-  final BLEController bleController = Get.put(BLEController());
-  final HistoryController historyController = Get.put(HistoryController());
-  final MeasureProgressController measureProgressController = Get.put(MeasureProgressController());
-  final PopUpController popUpController = Get.put(PopUpController());
-  final JakomoSP jakomoSP = JakomoSP();
-  final BLENavigationController bleNavigationController = Get.put(BLENavigationController());
+class JakomoApp extends StatefulWidget{
+  JakomoApp({Key? key}) : super(key: key);
+
   @override
-  Widget build(BuildContext context) {
-    SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+  State<StatefulWidget> createState() => _JakomoApp();
+}
+
+class _JakomoApp extends State<JakomoApp> {
+
+  @override
+  void initState(){
+    _initController();
+    super.initState();
     _supportUI.deviceWidth = Get.width;
     _supportUI.deviceHeight = Get.height;
     _supportUI.initScreenUtil();
     jakomoSP.initSharedPreference();
+  }
+
+  final SupportUI _supportUI = SupportUI();
+  final BottomNavigationController bottomNavigationController =
+      Get.put(BottomNavigationController());
+  final JakomoSP jakomoSP = JakomoSP();
+  @override
+  Widget build(BuildContext context) {
     return GetMaterialApp(
       initialRoute: '/',
       routingCallback: (routing){
@@ -56,5 +63,13 @@ class MyApp extends StatelessWidget {
         GlobalCupertinoLocalizations.delegate
       ],
     );
+  }
+  void _initController(){
+    Get.put(RestCareAudioController());
+    Get.put(BLEController());
+    Get.put(HistoryController());
+    Get.put(MeasureProgressController());
+    Get.put(PopUpController());
+    Get.put(BLENavigationController());
   }
 }
