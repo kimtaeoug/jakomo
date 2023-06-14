@@ -123,9 +123,8 @@
 * 음악 플레이어(백그라운드)
 
 
-
-
-### Application 구조  
+### Application 구조
+<details><summary>ApplicationTree</summary>
 ```bash
 ├── BLE
 │   ├── ble_controller.dart
@@ -979,3 +978,4 @@ kpop@keipabpaegtoliui-MacBookPro lib % tree
 ├── main.dart
 └── ui_test.dart
 ```
+</details>
