@@ -23,19 +23,19 @@
   </tr>  
   <tr>
     <td>
-      <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="50" style="padding:10px;">
+      <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="30" style="padding:10px;">
     </td>
     <td>
-      <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="50">
-    </td>
-    <td>
-      <img src="https://play-lh.googleusercontent.com/6gS9j15IG0xdrkD396Bx1uMBCkwEQNPffKlHPbRkYD9rdfmoPBN28FEsHqmrOiRh6w=w240-h480-rw" width="50">
+      <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="30">
     </td>
     <td>
       <img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo-2008.png" width="50">
     </td>
     <td>
       <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" width="50">
+    </td>
+    <td>
+      <img src="https://play-lh.googleusercontent.com/6gS9j15IG0xdrkD396Bx1uMBCkwEQNPffKlHPbRkYD9rdfmoPBN28FEsHqmrOiRh6w=w240-h480-rw" width="30">
     </td>
   </tr>  
 </table>  
