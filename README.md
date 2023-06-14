@@ -16,7 +16,7 @@
 <table>
    <tr>
       <td>
-         <img width="200px" src="./1.png">
+         <img width="200px" src="./1.png" alt="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
       </td>
       <td>
          <img width="200px" src="./2.png">
