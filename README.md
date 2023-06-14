@@ -53,7 +53,7 @@
     </tr>	
 </table>
 
-#### &ensp해당 앱은 각 Store에서 내려가 동영상으로 대체합니다. 👉🏻[앱 동영상](https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link)
+&ensp #### 해당 앱은 각 Store에서 내려가 동영상으로 대체합니다. 👉🏻[앱 동영상](https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link)
 
 [1.프로젝트 소개](#😀-프로젝트-소개)    
 [2.프로젝트내 담당 업무](#🧑‍💻-프로젝트내-담당-업무)  
