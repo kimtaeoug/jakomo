@@ -20,41 +20,53 @@
          <img width="200px" src="./1.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./2.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./3.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./4.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./5.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./6.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./7.png">
       </td>      
    </tr>
    <tr>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./8.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./9.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./10.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./11.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./12.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
          <img width="200px" src="./13.png">
       </td>
     </tr>	
