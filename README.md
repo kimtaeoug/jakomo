@@ -17,8 +17,9 @@
   <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="50">
   <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="50">
   <img src="https://play-lh.googleusercontent.com/6gS9j15IG0xdrkD396Bx1uMBCkwEQNPffKlHPbRkYD9rdfmoPBN28FEsHqmrOiRh6w=w240-h480-rw" width="50">
-</p>
-### 🙌 Contributing and Company  
+</p>  
+
+### 🙌 Contributing and Company    
 > Emmahc : 서비스 설계 및 개발, 배포, 팀 리딩  
 > 생산기술연구원 : 리클라이너 설계 Support   
 > Jakomo : 리클라이너 제조 및 설계  
