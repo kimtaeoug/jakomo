@@ -1,7 +1,8 @@
 # JakomoProject  
-![Stack](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Stack](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Stack](https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Stack](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Stack](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Stack](https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=IOS&logoColor=white)
+![Stack](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
 <table>
    <tr>
       <td>
