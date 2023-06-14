@@ -12,6 +12,7 @@
 서비스 설계 시작 : 2020.12  
 앱 개발 시작 : 2021.01  
 ### ⚙️ 기술 Stack  
+https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg
 > Flutter, Dart, Firebase, BLE  
 ### 🙌 Contributing and Company  
 > Emmahc : 서비스 설계 및 개발, 배포, 팀 리딩  
