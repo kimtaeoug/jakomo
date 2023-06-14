@@ -15,13 +15,6 @@
 
 <table border="1">
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>  
-  <tr>
     <td>
       <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="30" style="padding:10px;">
     </td>
@@ -38,6 +31,23 @@
       <img src="https://play-lh.googleusercontent.com/6gS9j15IG0xdrkD396Bx1uMBCkwEQNPffKlHPbRkYD9rdfmoPBN28FEsHqmrOiRh6w=w240-h480-rw" width="30">
     </td>
   </tr>  
+  <tr>
+    <td>
+      <p>Flutter</p>
+    </td>
+    <td>
+      <p>Firebase</p>
+    </td>
+    <td>
+      <p>Android</p>
+    </td>
+    <td>
+      <p>IOS</p>
+    </td>
+    <td>
+      <p>BLE</p>
+    </td>
+  </tr>    
 </table>  
 
 ### 🙌 Contributing and Company    
