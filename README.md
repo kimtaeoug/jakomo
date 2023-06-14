@@ -16,19 +16,19 @@
 > Jakomo : 리클라이너 제조 및 설계  
 > 리메인 : 기획 및 디자인  
 ### Application 구조  
-> -- BLE
-  > --- ble_controller
+> -- BLE  
+  > --- ble_controller  
   > --- 
-> -- JakomoSP
-> -- Logger
-> -- MeasureAPI
-> -- NetworkObserver
-> -- Page
-> -- Permission
-> -- Routes
-> -- ServerData
-> -- UISupportUtils
-> -- main
+> -- JakomoSP  
+> -- Logger  
+> -- MeasureAPI  
+> -- NetworkObserver  
+> -- Page  
+> -- Permission  
+> -- Routes  
+> -- ServerData  
+> -- UISupportUtils  
+> -- main  
 
 > 
 ## Getting Started
