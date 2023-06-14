@@ -8,13 +8,20 @@
 ### ⏳️ 개발 기간  
 서비스 설계 시작 : 2020.12
 앱 개발 시작 : 2021.01  
-### 기술 Stack  
+### ⚙️ 기술 Stack  
 > Flutter, Dart, Firebase, BLE  
 ### 🙌 Contributing and Company  
 > Emmahc : 서비스 설계 및 개발, 배포, 팀 리딩  
 > 생산기술연구원 : 리클라이너 설계 Support   
 > Jakomo : 리클라이너 제조 및 설계  
 > 리메인 : 기획 및 디자인  
+### 📌 주요 기능  
+* MemberShip 기능
+** ㅇ
+
+
+
+
 ### Application 구조  
 ```bash
 ├── BLE
@@ -869,16 +876,3 @@ kpop@keipabpaegtoliui-MacBookPro lib % tree
 ├── main.dart
 └── ui_test.dart
 ```
-> 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
