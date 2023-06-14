@@ -49,6 +49,9 @@
     </tr>	
 </table>
 
+#### 해당 앱은 각 Store에서 내려가 동영상으로 대체합니다.  
+👉🏻[앱 동영상](https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link)
+
 ## 😀 프로젝트 소개  
 여러 협업 기관과 함께 만든 IOT 서비스로 기기와 연동해 기기 제어 및 생체 신호 측정을 통한 건강 상태 분석등이 주요 기능인 휴식 테마의 앱입니다.  
 ### 🧑‍💻 프로젝트내 담당 업무  
