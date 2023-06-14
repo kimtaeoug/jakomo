@@ -125,6 +125,7 @@
 
 ### Application 구조
 <details><summary>ApplicationTree</summary>
+```   
 ```bash
 ├── BLE
 │   ├── ble_controller.dart
@@ -978,4 +979,5 @@ kpop@keipabpaegtoliui-MacBookPro lib % tree
 ├── main.dart
 └── ui_test.dart
 ```
+```   
 </details>
