@@ -20,22 +20,20 @@
       <td>
          <img width="200px" src="./5.png">
       </td>
-   </tr>
-   <tr>
       <td>
          <img width="200px" src="./6.png">
       </td>
       <td>
          <img width="200px" src="./7.png">
-      </td>
+      </td>      
+   </tr>
+   <tr>
       <td>
          <img width="200px" src="./8.png">
       </td>
       <td>
          <img width="200px" src="./9.png">
       </td>
-   </tr>
-   <tr>
       <td>
          <img width="200px" src="./10.png">
       </td>
