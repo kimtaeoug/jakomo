@@ -1,6 +1,6 @@
-![스크린샷 2023-06-14 09 11 43](https://github.com/kimtaeoug/jakomo/assets/43867912/c2f2d280-849d-4cd5-b26d-36f1a3edcb1f)
+## JakomoProject ![스크린샷 2023-06-14 09 11 43](https://github.com/kimtaeoug/jakomo/assets/43867912/c2f2d280-849d-4cd5-b26d-36f1a3edcb1f)
 
-## JakomoProject  
+
 > 
 ## Getting Started
 
