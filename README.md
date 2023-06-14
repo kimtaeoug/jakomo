@@ -65,46 +65,9 @@
 * 서비스 설계 시작 : 2020.12  
 * 앱 개발 시작 : 2021.01  
 ### ⚙️ 기술 Stack  
-
-<table>
-  <tr>
-    <td style="text-align=center;">
-      <div style="margin:0 auto;">
-        <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="30" alignment="center;">
-      </div>  
-    </td>
-    <td>
-      <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="30">
-    </td>
-    <td>
-      <img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo-2008.png" width="50">
-    </td>
-    <td>
-      <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" width="50">
-    </td>
-    <td>
-      <img src="https://play-lh.googleusercontent.com/6gS9j15IG0xdrkD396Bx1uMBCkwEQNPffKlHPbRkYD9rdfmoPBN28FEsHqmrOiRh6w=w240-h480-rw" width="30">
-    </td>
-  </tr>  
-  <tr>
-    <td>
-      <b>Flutter</b>
-    </td>
-    <td>
-      <b>Firebase</b>
-    </td>
-    <td>
-      <b>Android</b>
-    </td>
-    <td>
-      <b>IOS</b>
-    </td>
-    <td>
-      <b>BLE</b>
-    </td>
-  </tr>    
-</table>  
-
+* 상태 관리 및 바인딩, 라우팅 -> GetX  
+* 디자인 패턴 -> MVC  
+* Device 통신 -> BLE  
 
 ### 🙌 Contributing and Company    
 > Emmahc : 서비스 설계 및 개발, 배포, 팀 리딩  
