@@ -33,19 +33,19 @@
   </tr>  
   <tr>
     <td>
-      <p>Flutter</p>
+      <b>Flutter</b>
     </td>
     <td>
-      <p>Firebase</p>
+      <b>Firebase</b>
     </td>
     <td>
-      <p>Android</p>
+      <b>Android</b>
     </td>
     <td>
-      <p>IOS</p>
+      <b>IOS</b>
     </td>
     <td>
-      <p>BLE</p>
+      <b>BLE</b>
     </td>
   </tr>    
 </table>  
