@@ -12,7 +12,7 @@
 서비스 설계 시작 : 2020.12  
 앱 개발 시작 : 2021.01  
 ### ⚙️ 기술 Stack  
-<img src="[/path/to/img.jpg](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg)" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img width="150" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg">
 
 > Flutter, Dart, Firebase, BLE  
 ### 🙌 Contributing and Company  
