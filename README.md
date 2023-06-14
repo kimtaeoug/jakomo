@@ -1,4 +1,4 @@
-<h1 align="center">SmartRecliner Project</h1>  
+<h1 align="center">Jakomo Project</h1>  
 
 <div align="center">
  
