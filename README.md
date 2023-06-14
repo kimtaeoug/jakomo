@@ -12,7 +12,34 @@
 서비스 설계 시작 : 2020.12  
 앱 개발 시작 : 2021.01  
 ### ⚙️ 기술 Stack  
-
+    <table border="1">
+	<th>테이블</th>
+	<th>만들기</th>
+	<tr><!-- 첫번째 줄 시작 -->
+	    <td>첫번째 칸</td>
+	    <td>두번째 칸</td>
+	</tr><!-- 첫번째 줄 끝 -->
+	<tr><!-- 두번째 줄 시작 -->
+	    <td>첫번째 칸</td>
+	    <td>두번째 칸</td>
+	</tr><!-- 두번째 줄 끝 -->
+    </table>
+<table border="1">
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>  
+</table>  
 <p align="left">
   <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="50" style="padding:10px;">
   <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="50">
