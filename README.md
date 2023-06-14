@@ -16,6 +16,7 @@
 > Jakomo : 리클라이너 제조 및 설계  
 > 리메인 : 기획 및 디자인  
 ### Application 구조  
+'''
 ├── analysis_options.yaml
 ├── android
 │   ├── app
@@ -720,7 +721,7 @@
 ├── pubspec.yaml
 └── test
     └── widget_test.dart
-
+'''
 > 
 ## Getting Started
 
