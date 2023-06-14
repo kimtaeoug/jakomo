@@ -112,9 +112,9 @@
   * 회원 정보 수정  
   * ID/PWD 찾기  
 * 기기 제어  
-<img width="200px" src="./screen.png">
+<img width="600px" src="./screen.png">
 * 생체 신호 측정 및 분석  
-<img width="200px" src="./screen2.png">
+<img width="600px" src="./screen2.png">
 * 건강 상태 측정 내역(Calendar, Graph)  
 * AS / 1대1 문의 신청  
 * 음악 플레이어(백그라운드)
