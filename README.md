@@ -6,47 +6,47 @@
 <table>
    <tr>
       <td>
-         <img width="125px" src="./1.png">
+         <img width="200px" src="./1.png">
       </td>
       <td>
-         <img width="250px" src="./2.png">
+         <img width="200px" src="./2.png">
       </td>
       <td>
-         <img width="250px" src="./3.png">
+         <img width="200px" src="./3.png">
       </td>
       <td>
-         <img width="250px" src="./4.png">
+         <img width="200px" src="./4.png">
       </td>
       <td>
-         <img width="250px" src="./5.png">
-      </td>
-   </tr>
-   <tr>
-      <td>
-         <img width="250px" src="./6.png">
-      </td>
-      <td>
-         <img width="250px" src="./7.png">
-      </td>
-      <td>
-         <img width="250px" src="./8.png">
-      </td>
-      <td>
-         <img width="250px" src="./9.png">
+         <img width="200px" src="./5.png">
       </td>
    </tr>
    <tr>
       <td>
-         <img width="250px" src="./10.png">
+         <img width="200px" src="./6.png">
       </td>
       <td>
-         <img width="250px" src="./11.png">
+         <img width="200px" src="./7.png">
       </td>
       <td>
-         <img width="250px" src="./12.png">
+         <img width="200px" src="./8.png">
       </td>
       <td>
-         <img width="250px" src="./13.png">
+         <img width="200px" src="./9.png">
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <img width="200px" src="./10.png">
+      </td>
+      <td>
+         <img width="200px" src="./11.png">
+      </td>
+      <td>
+         <img width="200px" src="./12.png">
+      </td>
+      <td>
+         <img width="200px" src="./13.png">
       </td>
     </tr>	
 </table>
