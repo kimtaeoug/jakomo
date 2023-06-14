@@ -52,6 +52,9 @@
   </tr>    
 </table>  
 
+ <img width="250px" src="./1.png">
+
+
 ### 🙌 Contributing and Company    
 > Emmahc : 서비스 설계 및 개발, 배포, 팀 리딩  
 > 생산기술연구원 : 리클라이너 설계 Support   
