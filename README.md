@@ -1,7 +1,8 @@
 ## JakomoProject  
-> 회사 : EmmahealthCare
-> 직책 : 선임 연구원
-> 담당 업무 : 앱 개발 및 서비스 설계
+프로젝트 소개 : 
+> 회사 : EmmahealthCare  
+> 직책 : 선임 연구원  
+> 담당 업무 : 앱 개발 및 서비스 설계  
 
 
 > 
