@@ -16,7 +16,9 @@
 <table>
   <tr>
     <td style="text-align=center;">
-      <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="30" alignment="center;">
+      <div style="margin:0 auto;">
+        <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="30" alignment="center;">
+      </div>  
     </td>
     <td>
       <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="30">
