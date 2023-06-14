@@ -13,7 +13,7 @@
 앱 개발 시작 : 2021.01  
 ### ⚙️ 기술 Stack  
 
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+<table>
   <tr>
     <td alignment="center">
       <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="30" alignment="center">
