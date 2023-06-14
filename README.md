@@ -12,9 +12,12 @@
 서비스 설계 시작 : 2020.12  
 앱 개발 시작 : 2021.01  
 ### ⚙️ 기술 Stack  
-{: width="100" height="100"}
-![image.png1](https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png){: width="50" height="50"} |![image.png2](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png){: width="50" height="50"}  |![image.jpg2](https://play-lh.googleusercontent.com/6gS9j15IG0xdrkD396Bx1uMBCkwEQNPffKlHPbRkYD9rdfmoPBN28FEsHqmrOiRh6w=w240-h480-rw){: width="50" height="50"}
 
+<p align="center">
+  <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="50">
+  <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="50">
+  <img src="[이미지경로](https://play-lh.googleusercontent.com/6gS9j15IG0xdrkD396Bx1uMBCkwEQNPffKlHPbRkYD9rdfmoPBN28FEsHqmrOiRh6w=w240-h480-rw)" width="50">
+</p>
 ### 🙌 Contributing and Company  
 > Emmahc : 서비스 설계 및 개발, 배포, 팀 리딩  
 > 생산기술연구원 : 리클라이너 설계 Support   
