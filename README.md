@@ -2,6 +2,55 @@
 [![Total Downloads](https://poser.pugx.org/aimeos/aimeos-typo3/d/total.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/?branch=master)
 [![License](https://poser.pugx.org/aimeos/aimeos-typo3/license.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
+
+<table>
+   <tr>
+      <td>
+         <img width="125px" src="./1.png">
+      </td>
+      <td>
+         <img width="250px" src="./2.png">
+      </td>
+      <td>
+         <img width="250px" src="./3.png">
+      </td>
+      <td>
+         <img width="250px" src="./4.png">
+      </td>
+      <td>
+         <img width="250px" src="./5.png">
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <img width="250px" src="./6.png">
+      </td>
+      <td>
+         <img width="250px" src="./7.png">
+      </td>
+      <td>
+         <img width="250px" src="./8.png">
+      </td>
+      <td>
+         <img width="250px" src="./9.png">
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <img width="250px" src="./10.png">
+      </td>
+      <td>
+         <img width="250px" src="./11.png">
+      </td>
+      <td>
+         <img width="250px" src="./12.png">
+      </td>
+      <td>
+         <img width="250px" src="./13.png">
+      </td>
+    </tr>	
+</table>
+
 ## 😀 프로젝트 소개  
 여러 협업 기관과 함께 만든 IOT 서비스로 기기와 연동해 기기 제어 및 생체 신호 측정을 통한 건강 상태 분석등이 주요 기능인 휴식 테마의 앱입니다.  
 ### 🧑‍💻 프로젝트내 담당 업무  
@@ -51,53 +100,6 @@
     </td>
   </tr>    
 </table>  
-<table>
-   <tr>
-      <td>
-         <img width="250px" src="./1.png">
-      </td>
-      <td>
-         <img width="250px" src="./2.png">
-      </td>
-      <td>
-         <img width="250px" src="./3.png">
-      </td>
-      <td>
-         <img width="250px" src="./4.png">
-      </td>
-      <td>
-         <img width="250px" src="./5.png">
-      </td>
-   </tr>
-   <tr>
-      <td>
-         <img width="250px" src="./6.png">
-      </td>
-      <td>
-         <img width="250px" src="./7.png">
-      </td>
-      <td>
-         <img width="250px" src="./8.png">
-      </td>
-      <td>
-         <img width="250px" src="./9.png">
-      </td>
-   </tr>
-   <tr>
-      <td>
-         <img width="250px" src="./10.png">
-      </td>
-      <td>
-         <img width="250px" src="./11.png">
-      </td>
-      <td>
-         <img width="250px" src="./12.png">
-      </td>
-      <td>
-         <img width="250px" src="./13.png">
-      </td>
-    </tr>	
-</table>
 
 
 ### 🙌 Contributing and Company    
