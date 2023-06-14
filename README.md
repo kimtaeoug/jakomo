@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td text-align="center;">
+    <td style="text-align=center;">
       <img src="https://blog.kakaocdn.net/dn/XsNHt/btrb3m0cuQb/62QmvGg1bUVrI5uZfcWEi1/img.png" width="30" alignment="center;">
     </td>
     <td>
