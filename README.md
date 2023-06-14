@@ -1,5 +1,5 @@
 # JakomoProject  
-[![Stack](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Stack](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 <table>
    <tr>
       <td>
