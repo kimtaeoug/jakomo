@@ -106,11 +106,7 @@
 
 ### 📌 주요 기능  
 #### MemberShip 기능  
-  * 로그인  
-  * 회원가입/회원탈퇴  
-  * 회원 정보 수정  
-  * ID/PWD 찾기  
-  MemberShip의 기능은 Firebase를 사용해 Serverless로 개발했습니다.  
+  * MemberShip의 기능은 Firebase를 사용해 로그인, 회원가입/탈퇴/수정, IS/PWD찾기등을 Serverless로 개발했습니다.  
 #### 기기 제어  
 <img width="600px" src="./screen.png">  
 
