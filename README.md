@@ -101,7 +101,7 @@
 
 ### ⚙️ 기술 Stack  
 * 상태 관리 및 바인딩, 라우팅 -> GetX  
-* 디자인 패턴 -> MVC  
+* 디자인 패턴 -> MVC, Clean Architecture  
 * Device 통신 -> BLE     
 
 ### 📌 주요 기능  
