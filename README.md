@@ -1,11 +1,5 @@
 <h1 align="center">Jakomo Project</h1>  
 
-## 😀 프로젝트 소개  
-해당 프로젝트는 정부 과제 프로젝트로 선정돼 약 1년간 여러 기관과 협업해 개발하게된 휴식 테마의 앱입니다. 해당 앱의 가장 큰 특징은 SmartRecliner라는 의자형 기기와 BLE로 통신해 기기 제어 및 조작을 하는 것입니다. 
-또한, 기기에서 ECG, PPG 생체신호를 측정해 건강 상태를 분석해 앱에서 표현하기도 합니다. 그외에 힐링 음악을 들을 수 있고, 회원 기능, AS/1대1 신청등의 기능이 있습니다.
-
-* _해당 Github은 서비스의 프로토타입 버전 Github이여서 일부 기능에 대한 코드들이 빠져있습니다._
-
 <div align="center">
  
 ![Stack](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -18,6 +12,12 @@
 ![Stack](https://img.shields.io/badge/bluetooth-0082FC?style=for-the-badge&logo=BLE&logoColor=white)
  
 </div>
+
+## 😀 프로젝트 소개  
+해당 프로젝트는 정부 과제 프로젝트로 선정돼 약 1년간 여러 기관과 협업해 개발하게된 휴식 테마의 앱입니다. 해당 앱의 가장 큰 특징은 SmartRecliner라는 의자형 기기와 BLE로 통신해 기기 제어 및 조작을 하는 것입니다. 
+또한, 기기에서 ECG, PPG 생체신호를 측정해 건강 상태를 분석해 앱에서 표현하기도 합니다. 그외에 힐링 음악을 들을 수 있고, 회원 기능, AS/1대1 신청등의 기능이 있습니다.
+
+* _해당 Github은 서비스의 프로토타입 버전 Github이여서 일부 기능에 대한 코드들이 빠져있습니다._
 
 <table>
    <tr>
