@@ -102,13 +102,7 @@
 ### ⚙️ 기술 Stack  
 * 상태 관리 및 바인딩, 라우팅 -> GetX  
 * 디자인 패턴 -> MVC  
-* Device 통신 -> BLE  
-
-### 🙌 Contributing and Company    
-> Emmahc : 서비스 설계 및 개발, 배포, 팀 리딩  
-> 생산기술연구원 : 리클라이너 설계 Support   
-> Jakomo : 리클라이너 제조 및 설계  
-> 리메인 : 기획 및 디자인    
+* Device 통신 -> BLE     
 
 ### 📌 주요 기능  
 * MemberShip 기능  
@@ -116,15 +110,25 @@
   * 회원가입/회원탈퇴  
   * 회원 정보 수정  
   * ID/PWD 찾기  
+  MemberShip의 기능은 Firebase를 사용해 Serverless로 개발했습니다.  
 * 기기 제어  
 <img width="600px" src="./screen.png">
+App과 기기를 BLE로 연동해 사내에서 지정한 프로토콜을 이용해 통신했습니다. 기기와 연동된 후, App에서 기기를 제어할 수 있는 프로토콜을 보내 흔들 기능, 온열 기능, 기기의 각도 조절등을 할 수 있습니다.  
+또한, 사내에서 개발했던 BLE가 버그로 연동이 끊기는 경우가 있는데, 이를 대비해 앱 내에서 다시 연결을 시도해 사용자에게 기기 제어에 대한 불편을 줄이고자 했습니다. 
+
+또한, BLE 연동이 끊겼을 경우를 대비해 토스트로 통신이 끊김을 알린 후, 
+
 * 생체 신호 측정 및 분석  
 <img width="600px" src="./screen2.png">
 * 건강 상태 측정 내역(Calendar, Graph)  
 * AS / 1대1 문의 신청  
 * 음악 플레이어(백그라운드)
 
-### 🔥 핵심 기능
+### 🙌 Contributing and Company    
+> Emmahc : 서비스 설계 및 개발, 배포, 팀 리딩  
+> 생산기술연구원 : 리클라이너 설계 Support   
+> Jakomo : 리클라이너 제조 및 설계  
+> 리메인 : 기획 및 디자인  
 
 ### Application 구조
 <details><summary>ApplicationTree</summary>
