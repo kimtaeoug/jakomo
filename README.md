@@ -120,6 +120,7 @@
 * AS / 1대1 문의 신청  
 * 음악 플레이어(백그라운드)
 
+### 🔥 핵심 기능
 
 ### Application 구조
 <details><summary>ApplicationTree</summary>
